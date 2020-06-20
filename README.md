@@ -29,7 +29,7 @@ Machine Learning, Advanced Statistics, Time Series Analysis, Econometrics, Bayes
 Analysis, Deep Learning
 
 ## Analytical Tools
-Python, R, STATA, MySQL TensorFlow, SAS, PowerBI, Tableau, MongoDB, Knime, Plotly, PySpark, Apache Spark, ArcGIS, SharePoint, MS Project, MS Teams, SharePOint
+Python, R, STATA, MySQL, TensorFlow, SAS, PowerBI, Tableau, MongoDB, Knime, Plotly, PySpark, Apache Spark, ArcGIS, SharePoint, MS Project, MS Teams, SharePOint
 
 ## Soft Skills
 Critical thinking, Adaptability, Coordination, Negotiation, Working with Team, Comprehension
@@ -38,3 +38,11 @@ Critical thinking, Adaptability, Coordination, Negotiation, Working with Team, C
 - Founding Co-President of Public policy and political Economy Club, UTD, 2019
 - Vice-President, Bangladesh Student Association (BSO), 2011
 - Elected member of Mechanical Engineering Association (MEA)
+
+## Job Experience
+- Developed Power BI and Tableau dashboards for efficiently visualizing  cost and budget data for better allocation of fund
+- Used machine learning algorithms in Python for predicting demand for digital marketing using search query data
+- Applied advanced data analytics techniques using SAS and SQL for analyzing the growth of e-commerce in Bangladesh
+- Got involved in client-facing consulting engagements serving clients in Finance, IT, and RMG industry
+- Maintained dynamic liaison between the finance and software development department using MS Project and SharePoint
+- Guided the software development team in developing a complete ERP solution from the scratch
