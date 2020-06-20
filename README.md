@@ -34,3 +34,7 @@ Python, R, STATA, MySQL TensorFlow, SAS, PowerBI, Tableau, MongoDB, Knime, Plotl
 ## Soft Skills
 Critical thinking, Adaptability, Coordination, Negotiation, Working with Team, Comprehension
    
+## Leadership
+- Founding Co-President of Public policy and political Economy Club, UTD, 2019
+- Vice-President, Bangladesh Student Association (BSO), 2011
+- Elected member of Mechanical Engineering Association (MEA)
