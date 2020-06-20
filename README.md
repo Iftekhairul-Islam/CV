@@ -6,6 +6,7 @@ With engineering and finance behind my back, I am currently engaged in research 
 - Apply big data and ML algorithms for targeting under-funded segments of the state economy for spurring economic growth
 - Teach graduate students applied statistics using R, Python, ArcGIS, and STATA
 - Participate national and international conferences focused on policy reseach and application of evidence based policy analysis
+
 ## Data Projects
 - Working with Precinct-level election data (Texas) and CPS data to detect dormant Hispanic voters, using ArcGIS and Python
 - Analyzing O*NET and BLS dataset using MySQL, R, and Tableau to predict job vulnerability and the skill set required for the fourth industrial revolution
@@ -14,6 +15,7 @@ With engineering and finance behind my back, I am currently engaged in research 
 - Predicting impact on jobs due to AI in inaccessible areas using block-level employment data and ArcGIS Pro
 - Predicting locust infestation in the northern part of Bangladesh using NOAA NDVI satellite images and 'soil grid' raster dataset
 - Finding how impact of Covid-19 is racially biased in terms of imact on employment
+
 ## Education
 - Ph.D. Candidate, Data-Driven Public Policy and Political Economy, The University of Texas at Dallas
 - MS (Geographic Information Science), Fall 2020, The University of Texas at Dallas
@@ -21,11 +23,14 @@ With engineering and finance behind my back, I am currently engaged in research 
 - MS (Finance), Spring 2012, The University of Texas at Dallas
 - MBA (Finance), Fall 2009, Institute of Business Administration, University of Dhaka
 - BS (Mechanical Engineering), Fall 2006, Bangladesh University of Engineering and Technology
+
 ## Hard Skills
 Machine Learning, Advanced Statistics, Time Series Analysis, Econometrics, Bayesian Analysis, Regression Analysis, Spatial Analysis, Data Mining, Data Visualization, GIS Data
 Analysis, Deep Learning
+
 ## Analytical Tools
-Python, R, STATA, MySQL TensorFlow, SAS, PowerBI, Tableau, MongoDB, Knime, Plotly, PySpark, Apache Spark, ArcGIS, SharePoint, MS Project
+Python, R, STATA, MySQL TensorFlow, SAS, PowerBI, Tableau, MongoDB, Knime, Plotly, PySpark, Apache Spark, ArcGIS, SharePoint, MS Project, MS Teams, SharePOint
+
 ## Soft Skills
 Critical thinking, Adaptability, Coordination, Negotiation, Working with Team, Comprehension
    
