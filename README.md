@@ -14,3 +14,10 @@ With engineering and finance behind my back, I am currently engaged in research 
 - Predicting impact on jobs due to AI in inaccessible areas using block-level employment data and ArcGIS Pro
 - Predicting locust infestation in the northern part of Bangladesh using NOAA NDVI satellite images and 'soil grid' raster dataset
 - Finding how impact of Covid-19 is racially biased in terms of imact on employment
+## Education
+- Ph.D. Candidate, Data-Driven Public Policy and Political Economy, The University of Texas at Dallas
+- MS (Geographic Information Science), Fall 2020, The University of Texas at Dallas
+- MS (Development Economics), Spring 2015, Dhaka School of Economics, University of Dhaka
+- MS (Finance), Spring 2012, The University of Texas at Dallas
+- MBA (Finance), Fall 2009, Institute of Business Administration, University of Dhaka
+- BS (Mechanical Engineering), Fall 2006, Bangladesh University of Engineering and Technology
