@@ -21,3 +21,11 @@ With engineering and finance behind my back, I am currently engaged in research 
 - MS (Finance), Spring 2012, The University of Texas at Dallas
 - MBA (Finance), Fall 2009, Institute of Business Administration, University of Dhaka
 - BS (Mechanical Engineering), Fall 2006, Bangladesh University of Engineering and Technology
+## Hard Skills
+Machine Learning, Advanced Statistics, Time Series Analysis, Econometrics, Bayesian Analysis, Regression Analysis, Spatial Analysis, Data Mining, Data Visualization, GIS Data
+Analysis, Deep Learning
+## Analytical Tools
+Python, R, STATA, MySQL TensorFlow, SAS, PowerBI, Tableau, MongoDB, Knime, Plotly, PySpark, Apache Spark, ArcGIS, SharePoint, MS Project
+## Soft Skills
+Critical thinking, Adaptability, Coordination, Negotiation, Working with Team, Comprehension
+   
